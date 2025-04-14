@@ -21,7 +21,6 @@ Soluções inteligentes, escaláveis, robustas e bem testáveis são meu playgro
   - [📧 Gmail](mailto:marcelolaranjeira99@gmail.com)
   - [💼 LinkedIn](https://www.linkedin.com/in/marcelo-machado-laranjeira-120897208/)
 - 😄 Pronomes: ele/dele (he/him)
-- ⚡ Fun fact: Já quebrei produção. Mas também fui eu que levantei 😎
 
 ---
 
