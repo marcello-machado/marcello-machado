@@ -6,6 +6,13 @@
 
 ---
 
+## 📁 Origem
+
+Esse perfil é o novo lar dos meus projetos.  
+Minha caminhada antes de 14/04/2025 e começou no repositório [`@tizill`](https://github.com/tizill), e agora sigo com ainda mais foco, disciplina e aprendizado.
+
+---
+
 ## 🚀 Sobre mim
 Formado em Análise e Desenvolvimento de Sistemas pela faculdade de Ciências e Tecnologia do Maranhão 
 Sou movido por **curiosidade, códigos complexos, resolver problemas** e aquele frio na barriga que só um bug complexo proporciona.
@@ -67,13 +74,6 @@ Soluções inteligentes, escaláveis, robustas e bem testáveis são meu playgro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/>
 </p>
-
----
-
-## 📁 Origem
-
-Esse perfil é o novo lar dos meus projetos.  
-Minha caminhada começou no repositório [`@tizill`](https://github.com/tizill), e agora sigo com ainda mais foco, disciplina e aprendizado.
 
 ---
 
